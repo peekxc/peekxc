@@ -1,6 +1,6 @@
 ### Matt Piekenbrock
 
-Hi! I’m a computer scientist interested in geometric and topological data analysis, machine learning, & algorithm design.. 
+Hi! I’m a computer scientist interested in geometric and topological data analysis, machine learning, & algorithm design.
 
 Please don't hestitate to start an GH issue me if you have any installation or usage problems with any of my packages!
 
