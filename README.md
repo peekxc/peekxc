@@ -1,4 +1,4 @@
-### Matt Piekenbrock
+### Matt Piekenbrock ([Website](https://mattpiekenbrock.com/))
 
 Hi! I’m a computer scientist interested in geometric and topological data analysis, machine learning, & algorithm design.
 
